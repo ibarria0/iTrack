@@ -373,26 +373,12 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricing td.focus-best {
-	background: #a00;
-	width: 84.3%;
-	padding: 25px 8%;
-	font-family: 'Lato', sans-serif;
-	font-size: 32px;
-	color: #fff;
-	font-weight: 400;
-	text-align: center;
-	
-	border-bottom: 1px solid #d4d4d4;
-}
+
 .pricing td.focus span {
 	font-size: 10px;
 	display: block;
 }
-.pricing td.focus-best span {
-	font-size: 10px;
-	display: block;
-}
+
 .pricing td h6 {
 	width: 60%;
 	font-family: 'Lato', sans-serif;
@@ -593,26 +579,12 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricinggold td.focus-best {
-	background: #a00;
-	width: 84.3%;
-	padding: 25px 8%;
-	font-family: 'Lato', sans-serif;
-	font-size: 32px;
-	color: #fff;
-	font-weight: 400;
-	text-align: center;
-	
-	border-bottom: 1px solid #d4d4d4;
-}
+
 .pricinggold td.focus span {
 	font-size: 10px;
 	display: block;
 }
-.pricinggold td.focus-best span {
-	font-size: 10px;
-	display: block;
-}
+
 .pricinggold td h6 {
 	width: 60%;
 	font-family: 'Lato', sans-serif;
