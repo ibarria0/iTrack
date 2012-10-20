@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="about_files/twitterlib.js"></script>
         <meta charset="utf-8">
-        <title>iTrack - Que es GPS?</title>
+        <title>iTrack - Que es iTrack?</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -101,6 +101,7 @@
                     </a>
                     <a class="brand" href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/index.html"></a>
 
+
                     <div class="nav-collapse collapse" style="height: 0px; ">
 		                <ul class="nav">
 		                    <li class="active"><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/index.html">Home</a></li>
@@ -128,7 +129,7 @@
 		
 		<div class="container">
 					
-                    <div class="page-heading"><h1>Que es GPS</h1></div>
+                    <div class="page-heading"><h1>Que es iTrack?</h1></div>
 		
 		</div> <!-- /.container -->
 		
@@ -146,7 +147,7 @@
 			
 			<div id="page-heading">
 				<hr>
-                        <h2>iTrack satelital ofrece lo ultimo en tecnologia para rastreamiento de sus vehiculos.</h2>
+                            <h2>iTrack satelital ofrece lo ultimo en tecnologia para rastreamiento de sus vehiculos.</h2>
 				<hr>
 			</div> <!-- /span12 -->
 			
@@ -160,17 +161,38 @@
 			
 			
 			<div class="span6">		
-					<p>El sistema de “Global Positioning System” (o Sistema de Posicionamiento Global en español) es conformado por una red de satélites orbitando la tierra, los cuales permiten que cualquier persona que tenga un localizador satelital sea rastreado por medio de estos equipos por medio de triangulación, en muchos casos con un margen de error de centímetros.</p>
+					<p>iTrack es un localizador satelital personal, el cual es instalado en cuestión de minutos en su automóvil de manera indiscreta, de forma tal que no hay manera de distinguir cual automóvil tiene el sistema o no, protegiéndolo de cualquier robo potencial o incidente que requiera de localización y control remoto de su vehículo. Una vez el producto sea instalado, usted podrá de inmediato localizar su auto a través de nuestra plataforma.</p>
 <p>
 
-Gracias a los avances tecnológicos de nuestra era, hoy en día esto permite que usted, a través de un equipo GPS, pueda localizar a sus seres queridos con solo un botón desde la comodidad de su móvil. Nosotros hemos tomado esto y lo hemos convertido en un producto integrado para el fácil uso en la vida cotidiana.</p>
+Nuestro sistema utiliza una plataforma móvil, la cual puede ser accesada a través de nuestro portal, <a href="http://www.itrack.com.pa"> www.itrack.com.pa</a>, o desde nuestra aplicación móvil disponible en <img src="gplay.png"> para el sistema Android y pronto disponible en <img src="appstore.png"> para el sistema Apple iOS. Ambas aplicaciones pueden ser descargadas de forma gratuita. </p>
+</br>
+<h3> Ventajas del Sistema</h3>
+<ul>
+<li>Localización Satelital inmediata</li>
+<li>Botón de Pánico Configurable para Emergencias</li>
+<li>Plataforma Móvil y Aplicaciones para celulares sin costo</li>
+<li>Apagado/Encendido Remoto</li>
+<li>Alertas por Exceso de Velocidad</li>
+</ul>
+</br>
+<h3>Opciones de Valor Agregado</h3>
+<ul>
+<li>Reportes (adaptable a necesidad del usuario)</li>
+<li>Equipos GPS Garmin con Mensajería integrada*</li>
+<li>Reconocimiento de Chofer*</li>
+<li>Equipos para ahorro de combustible**</li>
+</ul>
+</br>
+<weak><p>*Disponibles solo para clientes con planes Platinum.</p>
+<p>**Consulta previa necesaria. Sujeto a disponibilidad de equipos.</p></weak>
+
                         </div>
-                                        <div class="span5">   <img style="float:right;" src="http://clients.dev507.com/fastrack/wp-content/uploads/2012/09/localizador.png">
+                                        <div class="span5">  <img style="float:left;" src="iphone4.png"> <img style="float:right;" src="sgs3.png">
 					
 					
 					
 			</div> <!-- /span6 -->	
-					
+				
 			
 		</div> <!-- /row -->
 		
@@ -215,7 +237,7 @@ Gracias a los avances tecnológicos de nuestra era, hoy en día esto permite que
 
                             <h3>Tweets</h3>
                             <br>	
-                            <div id="tweet"><ul><li>"iTrack Lanza su pagina Web! <a title="http://www.itrack.com.pa/" href="http://www.itrack.com.pa/">itrack.com.pa</a> via <a href="http://twitter.com/wrapbootstrap">@itrackpma</a>" <a href="http://twitter.com/itrackpma/">19 Oct</a></li></ul></div>
+                            <div id="tweet"><ul><li>"Theme Marketplace for Twitter Bootstrap <a title="http://wrapbootstrap.com/" href="http://wrapbootstrap.com/">wrapbootstrap.com/</a> via <a href="http://twitter.com/wrapbootstrap">@wrapbootstrap</a>" <a href="http://twitter.com/hunzaboy/statuses/213760381296967681/">15 Jun</a></li><li>"Shield Full Responsive Template <a title="http://wrapbootstrap.com/theme/shield-full-responsive-template-WB0095C2A" href="http://wrapbootstrap.com/theme/shield-full-responsive-template-WB0095C2A">wrapbootstrap.com/theme/shield-full…</a>" <a href="http://twitter.com/hunzaboy/statuses/207415104877248512/">29 May</a></li><li>"ZBox Landing Page <a title="http://wrapbootstrap.com/theme/zbox-landing-page-WB002AH67" href="http://wrapbootstrap.com/theme/zbox-landing-page-WB002AH67">wrapbootstrap.com/theme/zbox-landin…</a>" <a href="http://twitter.com/hunzaboy/statuses/204632442936623104/">21 May</a></li></ul></div>
 
 
                         </div> 
