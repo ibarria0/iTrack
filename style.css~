@@ -352,7 +352,7 @@ ul.textlist li {
 	-webkit-border-bottom-left-radius: 6px;
 }
 .pricing td {
-	background: #C0C0C0;
+	background: #fff;
 	width: 84.3%;
 	padding: 10px 8%;
 	border-top: 1px solid #ffffff;
@@ -408,7 +408,7 @@ tfoot td{text-align: center;}
 	float: left;
 }
 
-.pricingplatinum {
+.pricing {
 	margin-bottom: 40px;
 	border: 1px solid #d4d4d4;
 	border-width: 1px 1px 4px 1px;
@@ -425,7 +425,7 @@ tfoot td{text-align: center;}
 	-webkit-border-bottom-right-radius: 9px;
 	-webkit-border-bottom-left-radius: 9px;
 }
-.pricingplatinum table {
+.pricing table {
 	width: 100%;
 	font-family: 'Lato', sans-serif;
 	font-size: 12px;
@@ -433,7 +433,7 @@ tfoot td{text-align: center;}
 	font-weight: 400;
 	
 }
-.pricingplatinum thead th {
+.pricing thead th {
 	background: #333;
 	width: 84.3%;
 	padding: 13px 8%;
@@ -450,7 +450,7 @@ tfoot td{text-align: center;}
 	-webkit-border-top-left-radius: 4px;
 	float: left;
 }
-.pricingplatinum tfoot td {
+.pricing tfoot td {
 	background: #ededed;
 	width: 84.3%;
 	padding: 20px 8%;
@@ -461,8 +461,8 @@ tfoot td{text-align: center;}
 	-webkit-border-bottom-right-radius: 6px;
 	-webkit-border-bottom-left-radius: 6px;
 }
-.pricingplatinum td {
-	background: #42426F;
+.pricing td {
+	background: #A9A9A9;
 	width: 84.3%;
 	padding: 10px 8%;
 	border-top: 1px solid #ffffff;
@@ -471,7 +471,7 @@ tfoot td{text-align: center;}
         
 }
 tfoot td{text-align: center;}
-.pricingplatinum td.focus {
+.pricing td.focus {
 	background: #333;
 	width: 84.3%;
 	padding: 25px 8%;
@@ -483,7 +483,7 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricingplatinum td.focus-best {
+.pricing td.focus-best {
 	background: #a00;
 	width: 84.3%;
 	padding: 25px 8%;
@@ -495,15 +495,15 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricingplatinum td.focus span {
+.pricing td.focus span {
 	font-size: 10px;
 	display: block;
 }
-.pricingplatinum td.focus-best span {
+.pricing td.focus-best span {
 	font-size: 10px;
 	display: block;
 }
-.pricingplatinum td h6 {
+.pricing td h6 {
 	width: 60%;
 	font-family: 'Lato', sans-serif;
 	font-size: 12px;
@@ -512,7 +512,7 @@ tfoot td{text-align: center;}
 	
 	float: left;
 }
-.pricingplatinum td p {
+.pricing td p {
 	width: 40%;
 	text-align: right;
 	float: left;
@@ -581,8 +581,8 @@ tfoot td{text-align: center;}
         
 }
 tfoot td{text-align: center;}
-.pricinggold {
-	background: #D98719;
+.pricingplatinum {
+	background: #333;
 	width: 84.3%;
 	padding: 25px 8%;
 	font-family: 'Lato', sans-serif;
@@ -593,7 +593,7 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricinggold td.focus-best {
+.pricing td.focus-best {
 	background: #a00;
 	width: 84.3%;
 	padding: 25px 8%;
@@ -605,15 +605,15 @@ tfoot td{text-align: center;}
 	
 	border-bottom: 1px solid #d4d4d4;
 }
-.pricinggold td.focus span {
+.pricingplatinum td.focus span {
 	font-size: 10px;
 	display: block;
 }
-.pricinggold td.focus-best span {
+.pricingplatinum td.focus-best span {
 	font-size: 10px;
 	display: block;
 }
-.pricinggold td h6 {
+.pricingplatinum td h6 {
 	width: 60%;
 	font-family: 'Lato', sans-serif;
 	font-size: 12px;
@@ -622,7 +622,7 @@ tfoot td{text-align: center;}
 	
 	float: left;
 }
-.pricinggold td p {
+.pricingplatinum td p {
 	width: 40%;
 	text-align: right;
 	float: left;
