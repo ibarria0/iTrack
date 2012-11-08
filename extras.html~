@@ -147,6 +147,44 @@
                             <h2>Pricing Tables</h2>
                             <hr>
 
+                            <div class="span4">
+                                <div class="pricing">
+
+                                    <table>
+
+                                        <thead>
+                                            <tr>
+                                                <th>Plan Silver</th>
+                                            </tr>
+                                        </thead>
+                                        <tfoot>
+                                            <tr>
+                                                <td><a class="btn btn-primary btn-large">SIGN UP</a></td>
+                                            </tr>
+                                        </tfoot>
+                                        <tbody>
+                                            <tr>
+                                                <td class="focus">$0.00 <span>per month</span></td>
+                                            </tr>
+                                            <tr>
+                                                <td><h6>Localización desde una plataforma móvil a través de un Smartphone (Iphone, Blackberry, Android, Ipad)</h6>
+                                                    </td>
+                                            </tr>
+                                            <tr>
+                                                <td><h6>Bandwidth</h6>
+                                                    <p>100 GB </p></td>
+                                            </tr>
+                                            <tr>
+                                                <td><h6>Subdomains</h6>
+                                                    <p>Unlimited</p></td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+
                           
                             <!--table one starts-->
                             <div class="span4">
@@ -238,11 +276,11 @@ Apagado / Encendido Remoto
                                 </div>
                             </div>
                             <div class="span4">
-                                <div class="pricing">
+                                <div class="pricingplatinum">
                                     <table>
                                         <thead>
                                             <tr>
-                                                <th>Plan <strong>Gold</strong></th>
+                                                <th>Plan <strong>Platinum</strong></th>
                                             </tr>
                                         </thead>
                                         <tfoot>
@@ -384,7 +422,7 @@ del Mercado
                             </div>
 
                             <div class="span3">
-                                <div class="pricing">
+                                <div class="pricinggold">
                                     <table>
                                         <thead>
                                             <tr>
