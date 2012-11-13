@@ -147,45 +147,7 @@
                             <h2>Pricing Tables</h2>
                             <hr>
 
-                            <div class="span4">
-                                <div class="pricing">
-
-                                    <table>
-
-                                        <thead>
-                                            <tr>
-                                                <th>Plan Silver</th>
-                                            </tr>
-                                        </thead>
-                                        <tfoot>
-                                            <tr>
-                                                <td><a class="btn btn-primary btn-large">SIGN UP</a></td>
-                                            </tr>
-                                        </tfoot>
-                                        <tbody>
-                                            <tr>
-                                                <td class="focus">$0.00 <span>per month</span></td>
-                                            </tr>
-                                            <tr>
-                                                <td><h6>Localización desde una plataforma móvil a través de un Smartphone (Iphone, Blackberry, Android, Ipad)</h6>
-                                                    </td>
-                                            </tr>
-                                            <tr>
-                                                <td><h6>Bandwidth</h6>
-                                                    <p>100 GB </p></td>
-                                            </tr>
-                                            <tr>
-                                                <td><h6>Subdomains</h6>
-                                                    <p>Unlimited</p></td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-
-
-                          
+                           
                             <!--table one starts-->
                             <div class="span4">
                                 <div class="pricing">
@@ -207,76 +169,54 @@
                                                 <td class="focus">$00.00 <span>por mes</span></td>
                                             </tr>
                                             <tr>
-                                                <td>
-                                                    <p>Localización desde una plataforma móvil
+                                                <td><p>Aplicación para su celular sin costo</p>
+                                                    <h6>Localización desde una plataforma móvil
 a través de un Smartphone (Iphone,
 Blackberry, Android, Ipad)
-</p></td>
+</h6></td>
                                             </tr>
                                             <tr>
-                                                <td>
-                                                    <p>Aplicación para su celular sin costo
-</p></td>
+                                                <td><p>Actividad Actual del Vehículo</p>
+                                                    <h6>Mapas Interactivos de Panamá
+</h6></td>
                                             </tr>
                                             <tr>
-                                                <td>
-                                                    <p>Mapas Interactivos de Panamá
-</p></td>
+                                                <td><p>Velocidad Actual<p>
+                                                    <h6>Actividad Actual del Vehículo
+</h6></td>
                                             </tr>
                                             <tr>
-                                                <td>
-                                                    <p>Actividad Actual del Vehículo
+                                                <td><p>Mi Posición en relación al vehículo</p>
+                                                    <h6>
+Distancia estimada recorrida
 
-</p></td>
+</h6></td>
+                                            </tr>
+                                            <tr>
+                                                <td><p>Duración de recorrido</p>
+                                                    <h6>Soporte Técnico
+
+</h6></td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    <p>Velocidad
-
-</p></td>
+                                                   <h6>
+Capacitación de la Plataforma Móvil
+</h6></td>
                                             </tr>
                                             <tr>
-                                                <td>
-                                                    <p>Mi Posición en relación al vehículo
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Distancia estimada recorrida
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Duración de recorrido
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Soporte Técnico
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Capacitación de la Plataforma Móvil
-
-</p></td>
-                                            </tr>
- <tr>
-                                               <tr> <td><h6>A preferencia</h6>
-                                                    <p>Botón de Pánico para emergencias o
+                                                <td><p>A preferencia -></p>
+                                                    <h6>Botón de Pánico para emergencias o
 Apagado / Encendido Remoto
-</p></td></tr>
+
+</h6></td>
                                             </tr>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                             <div class="span4">
-                                <div class="pricingplatinum">
+                                <div class="pricing">
                                     <table>
                                         <thead>
                                             <tr>
@@ -422,7 +362,7 @@ del Mercado
                             </div>
 
                             <div class="span3">
-                                <div class="pricinggold">
+                                <div class="pricing">
                                     <table>
                                         <thead>
                                             <tr>
@@ -440,10 +380,10 @@ del Mercado
                                             </tr>
                                                                                        <tr>
                                                 <td>
-                                                    <p>Localización desde una plataforma móvil
+                                                    Localización desde una plataforma móvil
 a través de un Smartphone (Iphone,
 Blackberry, Android, Ipad)
-</p></td>
+</td>
                                             </tr>
                                             <tr>
                                                 <td>
@@ -531,7 +471,7 @@ Apagado / Encendido Remoto
 
                 </div>
         
- 
+<div class="container">
 
         
         <div id="extra">
