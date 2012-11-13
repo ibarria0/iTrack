@@ -35,7 +35,7 @@
         </script>
         <script type="text/javascript">
             getTwitters('tweet', { 
-                id: 'hunzaboy', 
+                id: 'FastrackPanama', 
                 count: 3, 
                 enableLinks: true, 
                 ignoreReplies: true, 
@@ -130,7 +130,7 @@
                     <!--first slide starts-->
                     <li style="width: 100%; float: left; margin-right: -100%; display: list-item;">
                         <div class="span5 slide">
-                            <h2><strong>iTrack</strong> Localizador Satelital</h2>
+                            <h2 id="h2itrack"><strong>iTrack</strong> Localizador Satelital</h2>
                             <br>
                             <p> iTrack es un localizador satelital personal, el cual es instalado en cuestión de minutos en su automóvil de manera indiscreta, de forma tal que no hay manera de distinguir cual automóvil tiene el sistema o no, protegiéndolo de cualquier robo potencial o incidente que requiera de localización y control remoto de su vehículo. </p>
                             <a href="#" class="btn_googleplay"></a> </div>
@@ -213,9 +213,9 @@ Una vez el producto sea instalado, usted podrá de inmediato localizar su
                     </div>
 
                     <div class="span4">
-                        <div class="icon_bg"><img src="iTrack%20-%20Home%20Page_files/icon8.png" alt="icon" height="92" width="92"></div>
-                        <h4>Efectividad</h4>
-                        <p>Deje que los numeros hablen por si solos.</p>
+                        <div class="icon_bg"><img src="images/gps-icon.png" alt="icon" height="92" width="92"></div>
+                        <h4>Control Remoto</h4>
+                        <p>Verifique el estado de su flota o vehiculo personal desde cualquier parte del mundo.</p>
                     </div>
 
 
@@ -234,20 +234,19 @@ Una vez el producto sea instalado, usted podrá de inmediato localizar su
 
                         <div class="span4">
 
-                            <h3>Quick Links</h3>
+                            <h3>Enlaces</h3>
 
 
                             <ul class="footer-links clearfix">  	
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">License</a></li>
-                                <li><a href="#">Terms of Use</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="gps.html">Que es GPS</a></li>
+                                <li><a href="itrack.html">Que es iTrack</a></li>
+                               
                             </ul>
                             <ul class="footer-links clearfix">  	
-                                <li><a href="#">Reviews</a></li>
-                                <li><a href="#">API</a></li>
-                                <li><a href="#">Developers</a></li>
-                                <li><a href="#">Secret Link</a></li>
+                                <li><a href="extras.html">Planes de Servicio</a></li>
+                                <li><a href="contact.html">Contactenos</a></li>
+                                <li><a href="http://www.twitter.com">Twitter</a></li>
                             </ul>
 
                         </div> 
@@ -264,7 +263,7 @@ Una vez el producto sea instalado, usted podrá de inmediato localizar su
 
                         <div class="span4">
 
-                            <h3>Subscribe and get updates</h3>
+                            <h3>Subscribete a nuestra lista de correo</h3>
                             <br>
 
                             <div class="input-prepend">

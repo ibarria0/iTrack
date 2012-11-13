@@ -214,23 +214,25 @@ Nuestro sistema utiliza una plataforma móvil, la cual puede ser accesada a trav
 
                         <div class="span4">
 
-                            <h3>Quick Links</h3>
+               
+
+                    <h3>Enlaces</h3>
 
 
-                            <ul class="footer-links clearfix">  	
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">License</a></li>
-                                <li><a href="#">Terms of Use</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
+                            <ul class="footer-links clearfix">
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="gps.html">Que es GPS</a></li>
+                                <li><a href="itrack.html">Que es iTrack</a></li>
+
                             </ul>
-                             <ul class="footer-links clearfix">  	
-                                <li><a href="#">Reviews</a></li>
-                                <li><a href="#">API</a></li>
-                                <li><a href="#">Developers</a></li>
-                                <li><a href="#">Secret Link</a></li>
+                            <ul class="footer-links clearfix">
+                                <li><a href="extras.html">Planes de Servicio</a></li>
+                                <li><a href="contact.html">Contactenos</a></li>
+                                <li><a href="http://www.twitter.com">Twitter</a></li>
                             </ul>
 
-                        </div> 
+                        </div>
+
 
 
                         <div class="span4">
