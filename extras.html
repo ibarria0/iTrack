@@ -1,492 +1,325 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="extras_files/twitterlib.js"></script>
-        <meta charset="utf-8">
-        <title>iTrack - Nuestros Planes de Servicio</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <style>
-            #header_wrapper {
-                padding-top: 10px; /* 60px to make the container go all the way to the bottom of the topbar */
-            }
-        </style>
-        <!--  styles -->
-         <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-        <!--[if lt IE 9]>
-          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
-        <!-- Le fav and touch icons -->
-
-        <link rel="shortcut icon" href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/images/favicon.png">
-
-        <link href="extras_files/bootstrap.css" rel="stylesheet">
-          <link href="extras_files/bootstrap-responsive.css" rel="stylesheet">
-        <link rel="stylesheet" href="extras_files/style.css">
-             <link rel="stylesheet" href="extras_files/shield-responsive.css">
-        
-        
-        
-
-        <link href="extras_files/css_002.css" rel="stylesheet" type="text/css">
-        <link href="extras_files/css.css" rel="stylesheet" type="text/css">
-        <script src="extras_files/twitter.js" type="text/javascript">
-        </script>
-        <script type="text/javascript">
-            getTwitters('tweet', { 
-                id: 'FastrackPanama', 
-                count: 3, 
-                enableLinks: true, 
-                ignoreReplies: true, 
-                clearContents: true,
-                template: '"%text%" <a href="http://twitter.com/%user_screen_name%/statuses/%id_str%/">%time%</a>'
-            });
-        </script>
-      
-       
-        <script src="extras_files/jquery-1.js"></script>
-        <link rel="stylesheet" media="screen" href="extras_files/prettyPhoto.css">
-        <script src="extras_files/jquery.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-           
-                $('a[data-rel]').each(function() {
-                    $(this).attr('rel', $(this).data('rel'));
-                });
-                $("a[rel^='prettyPhoto']").prettyPhoto({
-                    animation_speed: 'slow',
-                    slideshow: 5000,
-                    autoplay_slideshow: false,
-                    opacity: 0.80,
-                    show_title: true,
-                    theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
-                    overlay_gallery: false,
-                    social_tools: false
-              
-                });
-            });
-        </script>
-        <link rel="stylesheet" media="screen" href="extras_files/flexslider.css">
-        <script src="extras_files/jquery_003.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-                $('.image-slider').flexslider({
-                    animation: "fade",
-                    slideshowSpeed: 4000,
-                    animationDuration: 1000,
-                    controlNav: true,
-                    keyboardNav: true,
-                    directionNav: false,
-                    pauseOnHover: true,
-                    pauseOnAction: true    
-                });
-
-    	
-            });
-        </script>
-    <script id="twitterlib1350619152090" src="extras_files/user_timeline.js"></script></head>
-
-
-    <body>
-        <!-- Navbar -->
-
-        <div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;" id="extra">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </a>
-                    <a class="brand" href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/index.html"></a>
-
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="extras_files/twitterlib.js"></script>
+		<meta charset="utf-8">
+		<title>iTrack - Nuestros Planes de Servicio</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<style>
+			#header_wrapper {
+				padding-top: 10px; /* 60px to make the container go all the way to the bottom of the topbar */
+			}
+		</style>
+		<!--  styles -->
+		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<!-- Le fav and touch icons -->
+
+		<link rel="shortcut icon" href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/images/favicon.png">
+
+		<link href="extras_files/bootstrap.css" rel="stylesheet">
+		<link href="extras_files/bootstrap-responsive.css" rel="stylesheet">
+		<link rel="stylesheet" href="extras_files/style.css">
+		<link rel="stylesheet" href="extras_files/shield-responsive.css">
+
+
+
+
+		<link href="extras_files/css_002.css" rel="stylesheet" type="text/css">
+		<link href="extras_files/css.css" rel="stylesheet" type="text/css">
+		<script src="extras_files/twitter.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+			getTwitters('tweet', { 
+id: 'FastrackPanama', 
+count: 3, 
+enableLinks: true, 
+ignoreReplies: true, 
+clearContents: true,
+template: '"%text%" <a href="http://twitter.com/%user_screen_name%/statuses/%id_str%/">%time%</a>'
+});
+</script>
+
+
+<script src="extras_files/jquery-1.js"></script>
+<link rel="stylesheet" media="screen" href="extras_files/prettyPhoto.css">
+<script src="extras_files/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+
+			$('a[data-rel]').each(function() {
+				$(this).attr('rel', $(this).data('rel'));
+				});
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+animation_speed: 'slow',
+slideshow: 5000,
+autoplay_slideshow: false,
+opacity: 0.80,
+show_title: true,
+theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
+overlay_gallery: false,
+social_tools: false
+
+});
+			});
+</script>
+<link rel="stylesheet" media="screen" href="extras_files/flexslider.css">
+<script src="extras_files/jquery_003.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+			$('.image-slider').flexslider({
+animation: "fade",
+slideshowSpeed: 4000,
+animationDuration: 1000,
+controlNav: true,
+keyboardNav: true,
+directionNav: false,
+pauseOnHover: true,
+pauseOnAction: true    
+});
+
+
+			});
+</script>
+<script id="twitterlib1350619152090" src="extras_files/user_timeline.js"></script></head>
+
+
+<body>
+	<!-- Navbar -->
+
+	<div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;" id="extra">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				<a class="brand" href="index.html"></a>
+
 
+				<div class="btn-group pull-right">
+					<a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> User</a>
+					<a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
+						<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
+						<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+						<li class="divider"></li>
+						<li><a href="#"><i class="i"></i>Sign Out</a></li>
+					</ul>
+				</div>
+				<div class="nav-collapse collapse" style="height: 0px; ">
+					<ul class="nav">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+						<li class="active"> <a href="extras.html">Extras</a></li>
+						<li><a href="#pricing">Pricing</a></li>
+						<li><a href="extras.html#faq">FAQs</a></li>
+					</ul>
+
+				</div><!--/.nav-collapse -->
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Navbar End -->
+
+	<!--Container-->
+
+
+	<div id="header_wrapper" class="container">
+
+
+		<div class="inner">
+
+			<div class="container">
+
+				<div class="page-heading"><h1>Planes de Servicio</h1></div>
+
+			</div> <!-- /.container -->
+
+		</div> <!-- /inner -->
+
+
+	</div>
+
+	<div id="page">	
+		<div class="inner">
+			<div id="pricing">
+				<div id="sub_footer" class="container clearfix">
+
 
-                    <div class="nav-collapse collapse" style="height: 0px; ">
-		                <ul class="nav">
-		                    <li class="active"><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/index.html">Home</a></li>
-		                    <li><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/gps.html">Que es GPS</a></li>
-		                    <li><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/itrack.html">Que es iTrack</a></li>
-		                    <li><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/extras.html#pricing">Planes de Servicio</a></li>
-		                 <li><a href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/contact.html">Contactenos</a></li>
-		                </ul>
-                    </div><!--/.nav-collapse -->
-                </div>
-            </div>
-        </div>
-
-
-        <!-- Navbar End -->
-
-        <!--Container-->
-
-
-        <div id="header_wrapper" class="container">
-           
-	
-	<div class="inner">
-		
-		<div class="container">
-					
-                    <div class="page-heading"><h1>Nuestros Planes de Servicio</h1></div>
-		
-		</div> <!-- /.container -->
-		
-	</div> <!-- /inner -->
-	
-
-        </div>
-        
-        <div id="page">	
-            <div class="inner">
-                  <div id="pricing">
-                    <div id="sub_footer" class="container clearfix">
-
-                      
-                            <h2>Pricing Tables</h2>
-                            <hr>
-
-                           
-                            <!--table one starts-->
-                            <div class="span4">
-                                <div class="pricing">
-
-                                    <table>
-
-                                        <thead>
-                                            <tr>
-                                                <th>Plan Silver</th>
-                                            </tr>
-                                        </thead>
-                                        <tfoot>
-                                            <tr>
-                                                <td><a class="btn btn-primary btn-large">SIGN UP</a></td>
-                                            </tr>
-                                        </tfoot>
-                                        <tbody>
-                                            <tr>
-                                                <td class="focus">$00.00 <span>por mes</span></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>Aplicación para su celular sin costo</p>
-                                                    <h6>Localización desde una plataforma móvil
-a través de un Smartphone (Iphone,
-Blackberry, Android, Ipad)
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>Actividad Actual del Vehículo</p>
-                                                    <h6>Mapas Interactivos de Panamá
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>Velocidad Actual<p>
-                                                    <h6>Actividad Actual del Vehículo
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>Mi Posición en relación al vehículo</p>
-                                                    <h6>
-Distancia estimada recorrida
-
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>Duración de recorrido</p>
-                                                    <h6>Soporte Técnico
-
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                   <h6>
-Capacitación de la Plataforma Móvil
-</h6></td>
-                                            </tr>
-                                            <tr>
-                                                <td><p>A preferencia -></p>
-                                                    <h6>Botón de Pánico para emergencias o
-Apagado / Encendido Remoto
-
-</h6></td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <div class="span4">
-                                <div class="pricing">
-                                    <table>
-                                        <thead>
-                                            <tr>
-                                                <th>Plan <strong>Platinum</strong></th>
-                                            </tr>
-                                        </thead>
-                                        <tfoot>
-                                            <tr>
-                                                <td><a class="btn btn-primary btn-large">SIGN UP</a></td>
-                                            </tr>
-                                        </tfoot>
-                                        <tbody>
-                                            <tr>
-                                                <td class="focus-best">$00.00 <span>por mes</span></td>
-                                            </tr>
-                                                                                       <tr>
-                                                <td>
-                                                    <p>Localización desde una plataforma móvil
-a través de un Smartphone (Iphone,
-Blackberry, Android, Ipad)
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Aplicación para su celular sin costo
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Mapas Interactivos de Panamá
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Actividad Actual del Vehículo
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Velocidad
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Mi Posición en relación al vehículo
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Distancia estimada recorrida
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Duración de recorrido
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Soporte Técnico
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Alerta de Velocidad Excesiva
-
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Alerta para 5 Puntos de Interés
-
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Capacitación de la Plataforma Móvil
-	
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Soporte Técnico
-
-</p></td></tr>
-
-                                               <tr> <td><h6>Aplicaciones</h6>
-                                                    <p>Botón de Pánico para emergencias o
-Apagado / Encendido Remoto
-</p></td></tr>
-                                               <tr> <td>
-                                                    <p>Alerta para 10 Puntos de Interés
-</p></td></tr>
-                                               <tr> <td>
-                                                    <p>Alerta para 10 Geocercas
-
-</p></td></tr>
-                                               <tr> <td>
-                                                    <p>Capacitación de la Plataforma Móvil
-
-</p></td></tr>
-                                               <tr> <td><h6>Aplicaciones</h6>
-                                                    <p>Botón de Pánico para emergencias, Apa-
-gado / Encendido Remoto y Identificador
-para dos Conductores.
-
-</p></td></tr>
-
-
-                                               <tr> <td><h6>Opcionales</h6>
-                                                    <p>Apertura de cierre central de Puertas
-
-
-</p></td></tr>
-
-                                               <tr> <td><h6>       </h6>
-                                                    <p>Integración con el equipo GPS Garmin
-que le permite recibir ,mensajes e ins-
-trucciones desde su vehículo.
-
-
-</p></td></tr>
-                                               <tr> <td><h6>      </h6>
-                                                    <p>Reportes Adaptables a la Necesidad
-del Mercado
-
-
-</p></td></tr>
-                                               <tr> <td><h6>      </h6>
-                                                    <p>Equipos para Ahorro de Combustible
-
-</p></td></tr>
-
-
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-
-                            <div class="span3">
-                                <div class="pricing">
-                                    <table>
-                                        <thead>
-                                            <tr>
-                                                <th>Plan Gold</th>
-                                            </tr>
-                                        </thead>
-                                        <tfoot>
-                                            <tr>
-                                                <td><a class="btn btn-primary btn-large">SIGN UP</a></td>
-                                            </tr>
-                                        </tfoot>
-                                        <tbody>
-                                            <tr>
-                                                <td class="focus">$0.00 <span>per month</span></td>
-                                            </tr>
-                                                                                       <tr>
-                                                <td>
-                                                    Localización desde una plataforma móvil
-a través de un Smartphone (Iphone,
-Blackberry, Android, Ipad)
-</td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Aplicación para su celular sin costo
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Mapas Interactivos de Panamá
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Actividad Actual del Vehículo
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Velocidad
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Mi Posición en relación al vehículo
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Distancia estimada recorrida
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Duración de recorrido
-
-</p></td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Soporte Técnico
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Alerta de Velocidad Excesiva
-
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Alerta para 5 Puntos de Interés
-
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Capacitación de la Plataforma Móvil
-	
-
-</p></td></tr>
-                                            <tr>
-                                                <td>
-                                                    <p>Soporte Técnico
-
-</p></td></tr>
-
-                                               <tr> <td><h6>Aplicaciones</h6>
-                                                    <p>Botón de Pánico para emergencias o
-Apagado / Encendido Remoto
-</p></td></tr>
-
-
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-
-
-
-                        </div>
-
-                </div>
-        
-<div class="container">
-
-        
-        <div id="extra">
-
-            <div class="inner">
-
-                <div class="container">
-
-                    <div class="row">
-
-                        <div class="span4">
 
+					<div class="container">
+
+
+						<h1>Comparacion de Planes</h1>
+
+						<div class='well'>
+							<ul class="list3">
+								<li> (opcional) </li>
+							</ul>
+						</div>
+
+						<h2>Plan Silver</h2>
+						<hr>
+						<div class="row">
+							<div class="span4">
+								<ul class="list1">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+						</div>
+
+						<br>
+						<h2>Plan Gold</h2>
+						<hr>
+						<div class="row">
+							<div class="span4">
+								<ul class="list1">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+							<div class="span4">
+								<ul class="list2">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+						</div>
+
+						<br>
+						<h2>Plan Platinum</h2>
+						<hr>
+						<div class="row">
+							<div class="span4">
+								<ul class="list1">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+							<div class="span4">
+								<ul class="list2">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+							<div class="span4">
+								<ul class="list3">
+									<li>Nam liber tempor </li>
+									<li>Eleifend option </li>
+									<li>Imperdiet doming </li>
+									<li>Mazim placerat facer</li>
+								</ul>
+							</div>
+						</div>
+
+						<br>
+
+
+
+
+					</div>
+				</div>
+			</div>
+
+			<div id="extra">
+
+				<div class="inner">
+
+					<div class="container">
+
+						<div class="row">
+
+							<div class="span4">
+
+								<h3>Quick Links</h3>
+
+
+								<ul class="footer-links clearfix">  	
+									<li><a href="#">Support</a></li>
+									<li><a href="#">License</a></li>
+									<li><a href="#">Terms of Use</a></li>
+									<li><a href="#">Privacy Policy</a></li>
+								</ul>
+								<ul class="footer-links clearfix">  	
+									<li><a href="#">Reviews</a></li>
+									<li><a href="#">API</a></li>
+									<li><a href="#">Developers</a></li>
+									<li><a href="#">Secret Link</a></li>
+								</ul>
+
+							</div> 
+
+
+							<div class="span4">
+
+								<h3>Tweets</h3>
+								<br>	
+								<div id="tweet"><ul><li>"Theme Marketplace for Twitter Bootstrap <a title="http://wrapbootstrap.com/" href="http://wrapbootstrap.com/">wrapbootstrap.com/</a> via <a href="http://twitter.com/wrapbootstrap">@wrapbootstrap</a>" <a href="http://twitter.com/hunzaboy/statuses/213760381296967681/">15 Jun</a></li><li>"Shield Full Responsive Template <a title="http://wrapbootstrap.com/theme/shield-full-responsive-template-WB0095C2A" href="http://wrapbootstrap.com/theme/shield-full-responsive-template-WB0095C2A">wrapbootstrap.com/theme/shield-full…</a>" <a href="http://twitter.com/hunzaboy/statuses/207415104877248512/">29 May</a></li><li>"ZBox Landing Page <a title="http://wrapbootstrap.com/theme/zbox-landing-page-WB002AH67" href="http://wrapbootstrap.com/theme/zbox-landing-page-WB002AH67">wrapbootstrap.com/theme/zbox-landin…</a>" <a href="http://twitter.com/hunzaboy/statuses/204632442936623104/">21 May</a></li></ul></div>
+
+
+							</div> 
+
+							<div class="span4">
+
+								<h3>Subscribe and get updates</h3>
+								<br>
+
+								<div class="input-prepend">
+									<input class="span3" id="inputIcon" placeholder="Enter Your Email..." type="text"> <a href="#" class="btn  btn-small">Subscribe Now</a>
+								</div>
+								<img src="icons/facebook.png">
+								<img src="icons/twitter.png">
+								<img src="icons/youtube.png">
+								<img src="icons/linkedin.png">
+								<img src="icons/picons01.png">
+								<img src="icons/picons02.png">
+								<img src="icons/picons03.png">
+								<img src="icons/picons04.png">
+								<img src="icons/picons05.png">
+								<img src="icons/picons06.png">
+								<img src="icons/picons07.png">
+								<img src="icons/picons08.png">
+								<img src="icons/picons09.png">
+								<img src="icons/picons10.png">
+								<img src="icons/picons11.png">
+								<img src="icons/picons12.png">
+								<img src="icons/picons13.png">
+								<img src="icons/picons14.png">
+
+								<br><br><br><br>
+								<p>Copyright 2012 Shield Website Template. All Rights Reserved.</p>
+							</div> 
+
+<<<<<<< HEAD
                  <h3>Enlaces</h3>
+=======
+						</div> 
+>>>>>>> d0240bdf42a91579d293949d18b6a6cd1c3e8b4d
 
+					</div> 
 
+<<<<<<< HEAD
                             <ul class="footer-links clearfix">
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="gps.html">Que es GPS</a></li>
@@ -502,88 +335,36 @@ Apagado / Encendido Remoto
                         </div>
 
 
+=======
+				</div> 
 
-
-                        <div class="span4">
-
-                            <h3>Tweets</h3>
-                            <br>	
-                            <div id="tweet"><ul><li>"iTrack Lanza su pagina Web! <a title="http://www.itrack.com.pa/" href="http://www.itrack.com.pa/">itrack.com.pa</a> via <a href="http://twitter.com/wrapbootstrap">@itrackpma</a>" <a href="http://twitter.com/itrackpma/">19 Oct</a></li></ul></div>
-
-
-                        </div> 
-
-                        <div class="span4">
-
-                            <h3>Subscribe and get updates</h3>
-                            <br>
-
-                            <div class="input-prepend">
-                             <input class="span3" id="inputIcon" placeholder="Enter Your Email..." type="text"> <a href="#" class="btn  btn-small">Subscribe Now</a>
-                            </div>
-                            <img src="extras_files/facebook.png">
-                            <img src="extras_files/twitter.png">
-                            <img src="extras_files/youtube.png">
-                            <img src="extras_files/linkedin.png">
-                            <img src="extras_files/picons01.png">
-                            <img src="extras_files/picons02.png">
-                            <img src="extras_files/picons03.png">
-                            <img src="extras_files/picons04.png">
-                            <img src="extras_files/picons05.png">
-                            <img src="extras_files/picons06.png">
-                            <img src="extras_files/picons07.png">
-                            <img src="extras_files/picons08.png">
-                            <img src="extras_files/picons09.png">
-                            <img src="extras_files/picons10.png">
-                            <img src="extras_files/picons11.png">
-                            <img src="extras_files/picons12.png">
-                            <img src="extras_files/picons13.png">
-                            <img src="extras_files/picons14.png">
-                            
-                      <br><br><br><br>
-                            <p>Copyright 2012 Dev507.com. All Rights Reserved.</p>
-                        </div> 
-
-                    </div> 
-
-                </div> 
-
-            </div> 
-
-        </div>
+			</div>
+>>>>>>> d0240bdf42a91579d293949d18b6a6cd1c3e8b4d
 
 
 
-        <!-- Javascript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
+			<!-- Javascript
+			================================================== -->
+			<!-- Placed at the end of the document so the pages load faster -->
 
-        <script src="extras_files/bootstrap-transition.js"></script>
-        <script src="extras_files/bootstrap-alert.js"></script>
-        <script src="extras_files/bootstrap-modal.js"></script>
-        <script src="extras_files/bootstrap-dropdown.js"></script>
-        <script src="extras_files/bootstrap-scrollspy.js"></script>
-        <script src="extras_files/bootstrap-tab.js"></script>
-        <script src="extras_files/bootstrap-tooltip.js"></script>
-        <script src="extras_files/bootstrap-popover.js"></script>
-        <script src="extras_files/bootstrap-button.js"></script>
-        <script src="extras_files/bootstrap-collapse.js"></script>
-        <script src="extras_files/bootstrap-carousel.js"></script>
-        <script src="extras_files/bootstrap-typeahead.js"></script>
+			<script src="js/bootstrap-transition.js"></script>
+			<script src="js/bootstrap-alert.js"></script>
+			<script src="js/bootstrap-modal.js"></script>
+			<script src="js/bootstrap-dropdown.js"></script>
+			<script src="js/bootstrap-scrollspy.js"></script>
+			<script src="js/bootstrap-tab.js"></script>
+			<script src="js/bootstrap-tooltip.js"></script>
+			<script src="js/bootstrap-popover.js"></script>
+			<script src="js/bootstrap-button.js"></script>
+			<script src="js/bootstrap-collapse.js"></script>
+			<script src="js/bootstrap-carousel.js"></script>
+			<script src="js/bootstrap-typeahead.js"></script>
 
-        <!-- Include the plug-in -->
- <script src="extras_files/jquery_002.js" type="text/javascript"></script> 
+			<!-- Include the plug-in -->
+			<script src="js/jquery.easing.1.3.js" type="text/javascript"></script> 
 
-            <script src="extras_files/custom.js" type="text/javascript"></script>
-    
-
+			<script src="js/custom.js" type="text/javascript"></script>
 
 
-</body></html>
-<!--?php
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-?-->
+	</body></html>
