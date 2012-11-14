@@ -12,23 +12,10 @@ Designer: Tony Thomas
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0; padding: 0;
-	background-color: #444444;
 }
 
-.container {
-	width: 600px;
-	margin: 0 auto;
-	padding: 0px;
-}
 
-h1 {
-	color: #FFF; 
-	margin: 40px 0px; 
-	display: block; 
-	float: left;
-	width: 350px;}
-
-a {
+a.Facebook, a.Twitter, a.Skype{
 	float: left;
 	margin: 0 30px 20px 0;
 }
