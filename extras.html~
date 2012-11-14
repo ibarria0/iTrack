@@ -2,6 +2,7 @@
 <html lang="en"><head>
 <link rel="stylesheet" href="ml-social-buttons-dark.css" type="text/css" charset="utf-8" />
 	<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="tag.css" type="text/css" charset="utf-8" />
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="extras_files/twitterlib.js"></script>
 		<meta charset="utf-8">
 		<title>iTrack - Nuestros Planes de Servicio</title>
@@ -104,17 +105,7 @@ pauseOnAction: true
 				<a class="brand" href="index.html"></a>
 
 
-				<div class="btn-group pull-right">
-					<a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> User</a>
-					<a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
-					<ul class="dropdown-menu">
-						<li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
-						<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
-						<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
-						<li class="divider"></li>
-						<li><a href="#"><i class="i"></i>Sign Out</a></li>
-					</ul>
-				</div>
+				
 				<div class="nav-collapse collapse" style="height: 0px; ">
 		                <ul class="nav">
 		                    <li class="active"><a href="index.html">Home</a></li>
@@ -155,11 +146,14 @@ pauseOnAction: true
 	<div id="page">	
 		<div class="inner">
 			<div id="pricing">
+
 				<div id="sub_footer" class="container clearfix">
 
 
 
+
 					<div class="container">
+
 
 
 						<h1>Comparacion de Planes</h1>
@@ -169,70 +163,144 @@ pauseOnAction: true
 								<li> (opcional) </li>
 							</ul>
 						</div>
+<br>
+						<h2>Todos los planes incluyen:</h2>
+						<hr>
+						<div class="row">
+														<div class="span4">
+								<ul class="list1">
+									<li>Localización desde una plataforma móvil
+a través de un Smartphone (Iphone,
+Blackberry, Android, Ipad)</li>
+									<li>Aplicación para su celular sin costo</li>
+									
+								</ul>
+							</div>
+							<div class="span4">
+								<ul class="list1">
+									<li>Mapas Interactivos de Panamá
+ </li>
+									<li>Soporte Técnico
+</li>
+
+	</ul>
+							</div>
+<div class="span4">
+								<ul class="list1">
+									<li>Capacitación de la Plataforma Móvil
+ </li>
+
+
+	</ul>
+							</div></div>
 
 						<h2>Plan Silver</h2>
 						<hr>
 						<div class="row">
 							<div class="span4">
 								<ul class="list1">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
+									<li>Actividad Actual del Vehículo</li>
+									<li>Velocidad</li>
+									<li>Mi Posición en relación al vehículo </li>
+									<li>Distancia estimada recorrida</li>
+<li>Duración de recorrido</li>
 								</ul>
 							</div>
+<div class="span4">
+								<ul class="list3">
+									<li>Botón de Pánico para emergencias o
+Apagado / Encendido Remoto</li>
+									
+								</ul>
+							</div>
+<div class="span4"><div style="width:300px; position: relative">
+	<div class="tag-triangle"></div>
+	<div class="hole"></div>
+	<div class="tag-rectangle"><br><br>
+		<h7>$99.99</h7>
+	</div>
+</div></div>
 						</div>
 
 						<br>
 						<h2>Plan Gold</h2>
 						<hr>
 						<div class="row">
+														<div class="span4">
+								<ul class="list1">
+									<li>Actividad Actual del Vehículo</li>
+									<li>Velocidad</li>
+									<li>Mi Posición en relación al vehículo </li>
+							<li>Distancia estimada recorrida</li>		
+								</ul>
+							</div>
 							<div class="span4">
 								<ul class="list1">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
-								</ul>
+									<li>Alerta de Velocidad Excesiva
+ </li>
+									<li>Alerta para 5 Puntos de Interés
+</li>
+
+<li>Duración de recorrido</li>		
+		<li>Botón de Pánico para emergencias y
+ Apagado / Encendido Remoto
+
+ </li>		</ul>
 							</div>
-							<div class="span4">
-								<ul class="list2">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
-								</ul>
-							</div>
+<div class="span4"><div style="width:300px; position: relative">
+	<div class="tag-triangle"></div>
+	<div class="hole"></div>
+	<div class="tag-rectangle"><br><br>
+		<h7>$199.99</h7>
+	</div>
+</div></div>
+
 						</div>
 
+						
 						<br>
 						<h2>Plan Platinum</h2>
 						<hr>
 						<div class="row">
-							<div class="span4">
+														<div class="span4">
 								<ul class="list1">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
+									<li>Actividad Actual del Vehículo</li>
+									<li>Velocidad</li>
+									<li>Mi Posición en relación al vehículo </li>
+						
+<li>Duración de recorrido</li>
+									<li>Alerta de Velocidad Excesiva
+ </li>
+									<li>Alerta para 10 Puntos de Interés
+</li>				
+	<li>Alerta para 10 Geocercas
+</li>		
+			<li>Distancia estimada recorrida</li>
 								</ul>
 							</div>
-							<div class="span4">
-								<ul class="list2">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
-								</ul>
-							</div>
-							<div class="span4">
+							
+<div class="span4">
 								<ul class="list3">
-									<li>Nam liber tempor </li>
-									<li>Eleifend option </li>
-									<li>Imperdiet doming </li>
-									<li>Mazim placerat facer</li>
-								</ul>
+									<li>Apertura de cierre central de Puertas
+ </li>
+									<li>Integración con el equipo GPS Garmin
+que le permite recibir ,mensajes e ins-
+trucciones desde su vehículo.
+</li>				
+	<li>Reportes Adaptables a la Necesidad
+del Mercado
+</li>		
+<li>Equipos para Ahorro de Combustible
+</li>	</ul>
+
 							</div>
+<div class="span4"><div style="width:300px; position: relative">
+	<div class="tag-triangle"></div>
+	<div class="hole"></div>
+	<div class="tag-rectangle"><br><br>
+		<h7>$299.99</h7>
+	</div>
+</div></div>
 						</div>
 
 						<br>
@@ -243,6 +311,7 @@ pauseOnAction: true
 					</div>
 				</div>
 			</div>
+
 
 			<div id="extra">
 
