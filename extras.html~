@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<link rel="stylesheet" href="ml-social-buttons-dark.css" type="text/css" charset="utf-8" />
-	<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8" />
-<link rel="stylesheet" href="tag.css" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="ml-social-buttons-dark.css" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="tag.css" type="text/css" charset="utf-8" />
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="extras_files/twitterlib.js"></script>
 		<meta charset="utf-8">
 		<title>iTrack - Nuestros Planes de Servicio</title>
@@ -69,12 +69,12 @@ social_tools: false
 
 });
 			});
-</script>
-<link rel="stylesheet" media="screen" href="extras_files/flexslider.css">
-<script src="extras_files/jquery_003.js" type="text/javascript"></script>
-<script type="text/javascript">
-	$(document).ready(function() {
-			$('.image-slider').flexslider({
+		</script>
+		<link rel="stylesheet" media="screen" href="extras_files/flexslider.css">
+		<script src="extras_files/jquery_003.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+					$('.image-slider').flexslider({
 animation: "fade",
 slideshowSpeed: 4000,
 animationDuration: 1000,
@@ -86,322 +86,327 @@ pauseOnAction: true
 });
 
 
-			});
-</script>
-<script id="twitterlib1350619152090" src="extras_files/user_timeline.js"></script></head>
+					});
+				</script>
+				<script id="twitterlib1350619152090" src="extras_files/user_timeline.js"></script></head>
 
 
-<body>
-	<!-- Navbar -->
+			<body>
+				<!-- Navbar -->
 
-	<div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;" id="extra">
-		<div class="navbar-inner">
-			<div class="container">
-				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</a>
-				<a class="brand" href="index.html"></a>
-
-
-				
-				<div class="nav-collapse collapse" style="height: 0px; ">
-		                <ul class="nav">
-		                    <li class="active"><a href="index.html">Home</a></li>
-		                    <li><a href="gps.html">Que es GPS</a></li>
-		                    <li><a href="itrack.html">Que es iTrack</a></li>
-		                    <li><a href="extras.html#pricing">Planes de Servicio</a></li>
-		                 <li><a href="contact.html">Contactenos</a></li>
-		                </ul>
-
-
-				</div><!--/.nav-collapse -->
-			</div>
-		</div>
-	</div>
-
-
-	<!-- Navbar End -->
-
-	<!--Container-->
-
-
-	<div id="header_wrapper" class="container">
-
-
-		<div class="inner">
-
-			<div class="container">
-
-				<div class="page-heading"><h1>Planes de Servicio</h1></div>
-
-			</div> <!-- /.container -->
-
-		</div> <!-- /inner -->
-
-
-	</div>
-
-	<div id="page">	
-		<div class="inner">
-			<div id="pricing">
-
-				<div id="sub_footer" class="container clearfix">
+				<div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;" id="extra">
+					<div class="navbar-inner">
+						<div class="container">
+							<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</a>
+							<a class="brand" href="index.html"></a>
 
 
 
+							<div class="nav-collapse collapse" style="height: 0px; ">
+								<ul class="nav">
+									<li class="active"><a href="index.html">Home</a></li>
+									<li><a href="gps.html">Que es GPS</a></li>
+									<li><a href="itrack.html">Que es iTrack</a></li>
+									<li><a href="extras.html#pricing">Planes de Servicio</a></li>
+									<li><a href="contact.html">Contactenos</a></li>
+								</ul>
 
-					<div class="container">
 
-
-
-						<h1>Comparacion de Planes</h1>
-
-						<div class='well'>
-							<ul class="list3">
-								<li> (opcional) </li>
-							</ul>
+							</div><!--/.nav-collapse -->
 						</div>
-<br>
-						<h2 class="h1planes">Todos los planes incluyen:</h2>
-						<hr>
-						<div class="row">
-														<div class="span4">
-								<ul class="list1">
-									<li>Localización desde una plataforma móvil
-a través de un Smartphone (Iphone,
-Blackberry, Android, Ipad)</li>
-							
-									
-								</ul>
-							</div>
-							<div class="span4">
-								<ul class="list1">
-									<li>Mapas Interactivos de Panamá
- </li>
-									<li>Soporte Técnico
-</li>
-
-	</ul>
-							</div>
-<div class="span4">
-								<ul class="list1">
-									
-		<li>Aplicación para su celular sin costo</li>
-<li>Capacitación de la Plataforma Móvil
- </li>
-
-
-	</ul>
-							</div></div>
-<hr>
-						<h2 class="h1silver">Plan Silver</h2>
-						<hr>
-						<div class="row">
-							<div class="span4">
-								<ul class="list1">
-									<li>Actividad Actual del Vehículo</li>
-									<li>Velocidad</li>
-									<li>Mi Posición en relación al vehículo </li>
-									<li>Distancia estimada recorrida</li>
-<li>Duración de recorrido</li>
-								</ul>
-							</div>
-<div class="span4">
-								<ul class="list3">
-									<li>Botón de Pánico para emergencias o
-Apagado / Encendido Remoto</li>
-									
-								</ul>
-							</div>
-<div class="span4"><div style="width:300px; position: relative">
-	<div class="tag-triangle"></div>
-	<div class="hole"></div>
-	<div class="tag-rectangle"><br><br>
-		<h7>$99.99</h7>
-	</div>
-</div></div>
-						</div>
-<hr>
-						<br>
-						<h2 class="h1gold">Plan Gold</h2>
-						<hr>
-						<div class="row">
-														<div class="span4">
-								<ul class="list1">
-									<li>Actividad Actual del Vehículo</li>
-									<li>Velocidad</li>
-									<li>Mi Posición en relación al vehículo </li>
-							<li>Distancia estimada recorrida</li>		
-								</ul>
-							</div>
-							<div class="span4">
-								<ul class="list1">
-									<li>Alerta de Velocidad Excesiva
- </li>
-									<li>Alerta para 5 Puntos de Interés
-</li>
-
-<li>Duración de recorrido</li>		
-		<li>Botón de Pánico para emergencias y
- Apagado / Encendido Remoto
-
- </li>		</ul>
-							</div>
-<div class="span4"><div style="width:300px; position: relative">
-	<div class="tag-trianglegold"></div>
-	<div class="holegold"></div>
-	<div class="tag-rectanglegold"><br><br>
-		<h7>$199.99</h7>
-	</div>
-</div></div>
-
-						</div>
-
-						
-						<br>
-						<h2 class="h1platinum">Plan Platinum</h2>
-						<hr>
-						<div class="row">
-														<div class="span4">
-								<ul class="list1">
-									<li>Actividad Actual del Vehículo</li>
-									<li>Velocidad</li>
-									<li>Mi Posición en relación al vehículo </li>
-						
-<li>Duración de recorrido</li>
-									<li>Alerta de Velocidad Excesiva
- </li>
-									<li>Alerta para 10 Puntos de Interés
-</li>				
-	<li>Alerta para 10 Geocercas
-</li>		
-			<li>Distancia estimada recorrida</li>
-								</ul>
-							</div>
-							
-<div class="span4">
-								<ul class="list3">
-									<li>Apertura de cierre central de Puertas
- </li>
-									<li>Integración con el equipo GPS Garmin
-que le permite recibir ,mensajes e ins-
-trucciones desde su vehículo.
-</li>				
-	<li>Reportes Adaptables a la Necesidad
-del Mercado
-</li>		
-<li>Equipos para Ahorro de Combustible
-</li>	</ul>
-
-							</div>
-<div class="span4"><div style="width:300px; position: relative">
-	<div class="tag-triangleplatinum"></div>
-	<div class="holeplatinum"></div>
-	<div class="tag-rectangleplatinum"><br><br>
-		<h7>$299.99</h7>
-	</div>
-</div></div>
-						</div>
-
-						<br>
-
-
-
-
 					</div>
 				</div>
-			</div>
 
 
-			<div id="extra">
+				<!-- Navbar End -->
 
-         		   <div class="inner">
-
-               			 <div class="container">
-		
-                 			   <div class="row">
-
-                    				    <div class="span4">
-
-                            <h3>Enlaces</h3>
+				<!--Container-->
 
 
-                            <ul class="footer-links clearfix">  	
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="gps.html">Que es GPS</a></li>
-                                <li><a href="itrack.html">Que es iTrack</a></li>
-                               
-                            </ul>
-                            <ul class="footer-links clearfix">  	
-                                <li><a href="extras.html">Planes de Servicio</a></li>
-                                <li><a href="contact.html">Contactenos</a></li>
-                                <li><a href="http://www.twitter.com">Twitter</a></li>
-                            </ul>
-
-                        </div> 
+				<div id="header_wrapper" class="container">
 
 
-                        <div class="span4">
+					<div class="inner">
 
-                            <h3>Tweets</h3>
-                            <br>	
-                            <div id="tweet"></div>
+						<div class="container">
+
+							<div class="page-heading"><h1>Planes de Servicio</h1></div>
+
+						</div> <!-- /.container -->
+
+					</div> <!-- /inner -->
 
 
-                        </div> 
+				</div>
 
-                        <div class="span4">
+				<div id="page">	
+					<div class="inner">
+						<div id="pricing">
 
-                            <h3>Redes Sociales</h3>
-                            <br>
-
-                        
-
-                            <a href="http://www.facebook.com/pages/iTRACKPTY/239411386184556" class="Facebook"></a>
-	
-				<a href="https://twitter.com/itrack_pty" class="Twitter" title="Twitter"></a>
-                        	<a href="skype:itrack.panama?call" class="Skype" title="Skype"></a>
-
-                        
-           
-                               <br><br><br><br>
-                            <p>Copyright 2012 Dev507.com. All Rights Reserved.</p>
-                          
-                        </div> 
-
-                    </div> 
-
-                </div> 
-
-            </div> 
-
-        </div>
+							<div id="sub_footer" class="container clearfix">
 
 
 
-        <!-- Le javascript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
 
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-transition.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-alert.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-modal.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-dropdown.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-scrollspy.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-tab.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-tooltip.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-popover.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-button.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-collapse.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-carousel.js"></script>
-        <script src="iTrack%20-%20Home%20Page_files/bootstrap-typeahead.js"></script>
+								<div class="container">
 
-        <!-- Include the plug-in -->
-        <script src="iTrack%20-%20Home%20Page_files/jquery_002.js" type="text/javascript"></script> 
 
-        <script src="iTrack%20-%20Home%20Page_files/custom.js" type="text/javascript"></script>
-    
 
-</body></html>
+									<h1>Comparacion de Planes</h1>
+
+									<div class='well'>
+										<ul class="list3">
+											<li> (opcional) </li>
+										</ul>
+									</div>
+									<br>
+									<h2 class="h1planes">Todos los planes incluyen:</h2>
+									<hr>
+									<div class="row">
+										<div class="span4">
+											<ul class="list1">
+												<li>Localización desde una plataforma móvil
+												a través de un Smartphone (Iphone,
+												Blackberry, Android, Ipad)</li>
+
+
+											</ul>
+										</div>
+										<div class="span4">
+											<ul class="list1">
+												<li>Mapas Interactivos de Panamá
+												</li>
+												<li>Soporte Técnico
+												</li>
+
+											</ul>
+										</div>
+										<div class="span4">
+											<ul class="list1">
+
+												<li>Aplicación para su celular sin costo</li>
+												<li>Capacitación de la Plataforma Móvil
+												</li>
+
+
+											</ul>
+									</div></div>
+									<hr>
+									<h2 class="h1silver">Plan Silver</h2>
+									<hr>
+									<div class="row">
+										<div class="span4">
+											<ul class="list1">
+												<li>Actividad Actual del Vehículo</li>
+												<li>Velocidad</li>
+												<li>Mi Posición en relación al vehículo </li>
+												<li>Distancia estimada recorrida</li>
+												<li>Duración de recorrido</li>
+											</ul>
+										</div>
+										<div class="span4">
+											<ul class="list3">
+												<li>Botón de Pánico para emergencias o
+												Apagado / Encendido Remoto</li>
+
+											</ul>
+										</div>
+										<div class="span4"><div style="width:300px; position: relative">
+												<div class="tag-triangle"></div>
+												<div class="hole"></div>
+												<div class="tag-rectangle"><br><br>
+													<h7>$99.99</h7>
+												</div>
+										</div></div>
+									</div>
+
+									<br>
+									<hr>
+									<h2 class="h1gold">Plan Gold</h2>
+									<hr>
+									<div class="row">
+										<div class="span4">
+											<ul class="list1">
+												<li>Actividad Actual del Vehículo</li>
+												<li>Velocidad</li>
+												<li>Mi Posición en relación al vehículo </li>
+												<li>Distancia estimada recorrida</li>		
+											</ul>
+										</div>
+										<div class="span4">
+											<ul class="list1">
+												<li>Alerta de Velocidad Excesiva
+												</li>
+												<li>Alerta para 5 Puntos de Interés
+												</li>
+
+												<li>Duración de recorrido</li>		
+												<li>Botón de Pánico para emergencias y
+												Apagado / Encendido Remoto
+
+												</li>		</ul>
+											</div>
+											<div class="span4"><div style="width:300px; position: relative">
+													<div class="tag-trianglegold"></div>
+													<div class="holegold"></div>
+													<div class="tag-rectanglegold"><br><br>
+														<h7>$199.99</h7>
+													</div>
+											</div></div>
+
+										</div>
+
+
+										<br>
+										<hr>
+										<h2 class="h1platinum">Plan Platinum</h2>
+										<hr>
+										<div class="row">
+											<div class="span4">
+												<ul class="list1">
+													<li>Actividad Actual del Vehículo</li>
+													<li>Velocidad</li>
+													<li>Mi Posición en relación al vehículo </li>
+
+													<li>Duración de recorrido</li>
+													<li>Alerta de Velocidad Excesiva
+													</li>
+													<li>Alerta para 10 Puntos de Interés
+													</li>				
+													<li>Alerta para 10 Geocercas
+													</li>		
+													<li>Distancia estimada recorrida</li>
+												</ul>
+											</div>
+
+											<div class="span4">
+												<ul class="list3">
+													<li>Apertura de cierre central de Puertas
+													</li>
+													<li>Integración con el equipo GPS Garmin
+													que le permite recibir ,mensajes e ins-
+													trucciones desde su vehículo.
+													</li>				
+													<li>Reportes Adaptables a la Necesidad
+													del Mercado
+													</li>		
+													<li>Equipos para Ahorro de Combustible
+													</li>	</ul>
+
+												</div>
+												<div class="span4"><div style="width:300px; position: relative">
+														<div class="tag-triangleplatinum"></div>
+														<div class="holeplatinum"></div>
+														<div class="tag-rectangleplatinum"><br><br>
+															<h7>$299.99</h7>
+														</div>
+												</div></div>
+											</div>
+
+											<br>
+
+
+
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+								<div id="extra">
+
+									<div class="inner">
+
+										<div class="container">
+
+											<div class="row">
+
+												<div class="span4">
+
+													<h3>Enlaces</h3>
+
+
+													<ul class="footer-links clearfix">  	
+														<li><a href="index.html">Home</a></li>
+														<li><a href="gps.html">Que es GPS</a></li>
+														<li><a href="itrack.html">Que es iTrack</a></li>
+
+													</ul>
+													<ul class="footer-links clearfix">  	
+														<li><a href="extras.html">Planes de Servicio</a></li>
+														<li><a href="contact.html">Contactenos</a></li>
+														<li><a href="http://www.twitter.com">Twitter</a></li>
+													</ul>
+
+												</div> 
+
+
+												<div class="span4">
+
+													<h3>Tweets</h3>
+													<br>	
+													<div id="tweet"></div>
+
+
+												</div> 
+
+												<div class="span4">
+
+													<h3>Redes Sociales</h3>
+													<br>
+
+
+
+													<a href="http://www.facebook.com/pages/iTRACKPTY/239411386184556" class="Facebook"></a>
+
+													<a href="https://twitter.com/itrack_pty" class="Twitter" title="Twitter"></a>
+													<a href="skype:itrack.panama?call" class="Skype" title="Skype"></a>
+
+
+
+													<br><br><br><br>
+													<p>Copyright 2012 Dev507.com. All Rights Reserved.</p>
+
+												</div> 
+
+											</div> 
+
+										</div> 
+									</div> 
+								</div> 
+
+
+
+
+
+										<!-- Le javascript
+										================================================== -->
+										<!-- Placed at the end of the document so the pages load faster -->
+
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-transition.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-alert.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-modal.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-dropdown.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-scrollspy.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-tab.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-tooltip.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-popover.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-button.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-collapse.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-carousel.js"></script>
+										<script src="iTrack%20-%20Home%20Page_files/bootstrap-typeahead.js"></script>
+
+										<!-- Include the plug-in -->
+										<script src="iTrack%20-%20Home%20Page_files/jquery_002.js" type="text/javascript"></script> 
+
+										<script src="iTrack%20-%20Home%20Page_files/custom.js" type="text/javascript"></script>
+
+
+									</body>
+								</html>
