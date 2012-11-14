@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="contact_files/twitterlib.js"></script>
         <meta charset="utf-8">
-        <title>iTrack - Contactenos</title>
+        <title>iTrack | Contáctenos</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -100,18 +100,19 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="http://www.itrack.com.pa.s3-website-us-east-1.amazonaws.com/index.html"></a>
+                           <a class="brand" href="index.html"></a>
 
 
 
                     <div class="nav-collapse collapse" style="height: 0px; ">
-		  	                <ul class="nav">
-		                    <li class="active"><a href="index.html">Home</a></li>
-		                    <li><a href="gps.html">Que es GPS</a></li>
-		                    <li><a href="itrack.html">Que es iTrack</a></li>
-		                    <li><a href="extras.html#pricing">Planes de Servicio</a></li>
-		                 <li><a href="contact.html">Contactenos</a></li>
+		                <ul class="nav">
+		                    <li><a href="index.html">Home</a></li>
+		                    <li><a href="gps.html">¿Qué es GPS?</a></li>
+		                    <li><a href="itrack.html">¿Qué es iTrack?</a></li>
+		                    <li><a href="extras.html">Precios</a></li>
+		                 <li class="active"><a href="contact.html">Contáctenos</a></li>
 		                </ul>
+
 
 
                     </div><!--/.nav-collapse -->
@@ -132,7 +133,7 @@
 		
 		<div class="container">
 					
-                    <div class="page-heading"><h1>Contactenos</h1></div>
+                    <div class="page-heading"><h1>Contáctenos</h1></div>
 		
 		</div> <!-- /.container -->
 		
@@ -146,14 +147,14 @@
 <div id="contact">
                 <div id="sub_footer" class="container">
                     
-                        <h2>Escribanos y un representante le respondera en 24hr.</h2>
+                        <h2>Escribanos y un representante le responderá en 24hr.</h2>
                   <hr>
                         <div class="clearfix"></div>
 
                         <div class="span5">
 
 
-                            <p>Queremos saber sobre ti! Solo ingresa tu nombre,<br> correo electronico, y mensaje en el espacio abajo y <br> envienos un mensaje.</p>
+                            <p>Queremos saber sobre tí! Solo ingresa tu nombre,<br> correo electrónico, y mensaje en el espacio debajo y <br> envíenos un mensaje.</p>
 
 
                             <form method="post" action="#" _lpchecked="1">
@@ -200,13 +201,13 @@
                             <div class="span5">
 
                                 <p>
-                                    <strong>Direccion</strong> <br>
+                                    <strong>Dirección</strong> <br>
                                     Calle 50, Frente al Rey<br>
                                     Ciudad de Panama, Panama.
 
                                     <br><br>
-                                    <strong>Telefono</strong><br>
-                                    Telefono: (+507) 270-3133<br>
+                                    <strong>Teléfono</strong><br>
+                                    Teléfono: (+507) 270-3133<br>
                                     Fax: (+507) 270-3150<br>
 				Correo: <a href="mail.to:itrack.pty@gmail.com">itrack.pty@gmail.com</a>
 
@@ -239,15 +240,15 @@
 
 
                             <ul class="footer-links clearfix">  	
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="gps.html">Que es GPS</a></li>
-                                <li><a href="itrack.html">Que es iTrack</a></li>
+                            <li><a href="index.html">Home</a></li>
+		                    <li><a href="gps.html">¿Qué es GPS?</a></li>
+		                    <li><a href="itrack.html">¿Qué es iTrack?</a></li>
                                
                             </ul>
                             <ul class="footer-links clearfix">  	
                                 <li><a href="extras.html">Planes de Servicio</a></li>
-                                <li><a href="contact.html">Contactenos</a></li>
-                                <li><a href="http://www.twitter.com">Twitter</a></li>
+                                <li><a href="contact.html">Contáctenos</a></li>
+                                <li><a href="http://www.twitter.com/itrack_pty">Twitter</a></li>
                             </ul>
 
                         </div> 

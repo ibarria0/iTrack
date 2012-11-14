@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="font/font.css" type="text/css" charset="utf-8" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="about_files/twitterlib.js"></script>
         <meta charset="utf-8">
-        <title>iTrack - Que es iTrack?</title>
+        <title>iTrack | ¿Qué es iTrack?</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -101,17 +101,19 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="index.html"></a>
+                          <a class="brand" href="index.html"></a>
+
 
 
                     <div class="nav-collapse collapse" style="height: 0px; ">
 		                <ul class="nav">
-		                    <li class="active"><a href="index.html">Home</a></li>
-		                    <li><a href="gps.html">Que es GPS</a></li>
-		                    <li><a href="itrack.html">Que es iTrack</a></li>
-		                    <li><a href="extras.html#pricing">Planes de Servicio</a></li>
-		                 <li><a href="contact.html">Contactenos</a></li>
+		                    <li><a href="index.html">Home</a></li>
+		                    <li><a href="gps.html">¿Qué es GPS?</a></li>
+		                    <li class="active"><a href="itrack.html">¿Qué es iTrack?</a></li>
+		                    <li><a href="extras.html">Precios</a></li>
+		                 <li><a href="contact.html">Contáctenos</a></li>
 		                </ul>
+
 
 
                     </div><!--/.nav-collapse -->
@@ -132,7 +134,7 @@
 		
 		<div class="container">
 					
-                    <div class="page-heading"><h1>Que es iTrack?</h1></div>
+                    <div class="page-heading"><h1>¿Qué es iTrack?</h1></div>
 		
 		</div> <!-- /.container -->
 		
@@ -150,7 +152,7 @@
 			
 			<div id="page-heading">
 				<hr>
-                            <h2>iTrack satelital ofrece lo ultimo en tecnologia para rastreamiento de sus vehiculos.</h2>
+                            <h2>iTrack satelital ofrece lo último en tecnología para el rastreamiento de sus vehículos.</h2>
 				<hr>
 			</div> <!-- /span12 -->
 			
@@ -220,16 +222,16 @@ Nuestro sistema utiliza una plataforma móvil, la cual puede ser accesada a trav
                             <h3>Enlaces</h3>
 
 
-                            <ul class="footer-links clearfix">  	
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="gps.html">Que es GPS</a></li>
-                                <li><a href="itrack.html">Que es iTrack</a></li>
+                                <ul class="footer-links clearfix">  	
+                            <li><a href="index.html">Home</a></li>
+		                    <li><a href="gps.html">¿Qué es GPS?</a></li>
+		                    <li><a href="itrack.html">¿Qué es iTrack?</a></li>
                                
                             </ul>
                             <ul class="footer-links clearfix">  	
                                 <li><a href="extras.html">Planes de Servicio</a></li>
-                                <li><a href="contact.html">Contactenos</a></li>
-                                <li><a href="http://www.twitter.com">Twitter</a></li>
+                                <li><a href="contact.html">Contáctenos</a></li>
+                                <li><a href="http://www.twitter.com/itrack_pty">Twitter</a></li>
                             </ul>
 
                         </div> 
