@@ -1,0 +1,121 @@
+/*Silver*/
+	
+
+	.tag-triangle {
+		border-color:transparent #738678 transparent transparent;
+		border-style:solid;
+		border-width:50px;
+		width:0;
+		height:0;
+		float:left;
+	}
+
+	.tag-rectangle {
+		background-color:#738678;
+		width:200px;
+		height:100px;
+		display:inline;
+		float:right;
+		border-style:solid;
+		border-width:50px;
+		border-color:black;
+	}
+	.tag-rectangle h7 {
+		text-align: center;
+		font-size: 40px;
+		color: black;
+		padding:10px;
+		}
+	
+	.hole {
+		width: 10px;
+		height: 10px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background-color:#E7E9EB;
+		position: absolute;
+		left: 60px;
+		top: 45px;
+	}
+	
+/* empieza gold */
+
+
+	.tag-trianglegold {
+		border-color:transparent #EEE600 transparent transparent;
+		border-style:solid;
+		border-width:50px;
+		width:0;
+		height:0;
+		float:left;
+	}
+
+	.tag-rectanglegold {
+		background-color:#EEE600;
+		width:200px;
+		height:100px;
+		display:inline;
+		float:right;
+	}
+	.tag-rectanglegold h7 {
+		text-align: center;
+		font-size: 40px;
+		color: black;
+		padding:10px;
+		}
+	
+	.holegold {
+		width: 10px;
+		height: 10px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background-color:#E7E9EB;
+		position: absolute;
+		left: 60px;
+		top: 45px;
+	}
+
+/* empieza platinum */
+
+
+	.tag-triangleplatinum {
+		border-color:transparent #FF7518 transparent transparent;
+		border-style:solid;
+		border-width:50px;
+		width:0;
+		height:0;
+		float:left;
+	}
+
+	.tag-rectangleplatinum {
+		background-color:#FF7518;
+		width:200px;
+		height:100px;
+		display:inline;
+		float:right;
+	}
+	.tag-rectangleplatinum h7 {
+		text-align: center;
+		font-size: 40px;
+		color: black;
+		padding:10px;
+		}
+	
+	.holeplatinum {
+		width: 10px;
+		height: 10px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background-color:#E7E9EB;
+		position: absolute;
+		left: 60px;
+		top: 45px;
+	}
+
+.h1silver{color:#738678;}
+.h1gold{color:#EEE600;}
+.h1platinum{color:#FF7518;}
+.h1planes{color:black;}
