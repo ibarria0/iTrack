@@ -1,6 +1,8 @@
+/*Silver*/
+	
 
 	.tag-triangle {
-		border-color:transparent #AA0000 transparent transparent;
+		border-color:transparent #C0C0C0 transparent transparent;
 		border-style:solid;
 		border-width:50px;
 		width:0;
@@ -9,7 +11,7 @@
 	}
 
 	.tag-rectangle {
-		background-color:#AA0000;
+		background-color:#C0C0C0;
 		width:200px;
 		height:100px;
 		display:inline;
@@ -18,7 +20,7 @@
 	.tag-rectangle h7 {
 		text-align: center;
 		font-size: 40px;
-		color: white;
+		color: black;
 		padding:10px;
 		}
 	
@@ -34,5 +36,83 @@
 		top: 45px;
 	}
 	
+/* empieza gold */
 
 
+	.tag-trianglegold {
+		border-color:transparent #EEE600 transparent transparent;
+		border-style:solid;
+		border-width:50px;
+		width:0;
+		height:0;
+		float:left;
+	}
+
+	.tag-rectanglegold {
+		background-color:#EEE600;
+		width:200px;
+		height:100px;
+		display:inline;
+		float:right;
+	}
+	.tag-rectanglegold h7 {
+		text-align: center;
+		font-size: 40px;
+		color: black;
+		padding:10px;
+		}
+	
+	.holegold {
+		width: 10px;
+		height: 10px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background-color:#E7E9EB;
+		position: absolute;
+		left: 60px;
+		top: 45px;
+	}
+
+/* empieza platinum */
+
+
+	.tag-triangleplatinum {
+		border-color:transparent #A7FC00 transparent transparent;
+		border-style:solid;
+		border-width:50px;
+		width:0;
+		height:0;
+		float:left;
+	}
+
+	.tag-rectangleplatinum {
+		background-color:#A7FC00;
+		width:200px;
+		height:100px;
+		display:inline;
+		float:right;
+	}
+	.tag-rectangleplatinum h7 {
+		text-align: center;
+		font-size: 40px;
+		color: black;
+		padding:10px;
+		}
+	
+	.holeplatinum {
+		width: 10px;
+		height: 10px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background-color:#E7E9EB;
+		position: absolute;
+		left: 60px;
+		top: 45px;
+	}
+
+.h1silver{color:#C0C0C0;}
+.h1gold{color:#EEE600;}
+.h1platinum{color:#A7FC00;}
+.h1planes{color:black;}
