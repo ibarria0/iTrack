@@ -106,10 +106,10 @@
 
                     <div class="nav-collapse collapse" style="height: 0px; ">
 		   	              <ul class="nav">
-		                    <li><a href="index.html">Home</a></li>
+		                    <li class="active"><a href="index.html">Home</a></li>
 		                    <li><a href="gps.html">¿Qué es GPS?</a></li>
 		                    <li><a href="itrack.html">¿Qué es iTrack?</a></li>
-		                    <li class="active"><a href="extras.html">Precios</a></li>
+		                    <li><a href="extras.html">Precios</a></li>
 		                 <li><a href="contact.html">Contáctenos</a></li>
 		                </ul>
 
@@ -136,7 +136,7 @@
                             <h2 id="h2itrack"><strong>iTrack</strong> Localizador Satelital</h2>
                             <br>
                             <p> iTrack es un localizador satelital personal, el cual es instalado en cuestión de minutos en su automóvil de manera indiscreta, de forma tal que no hay manera de distinguir cual automóvil tiene el sistema o no, protegiéndolo de cualquier robo potencial o incidente que requiera de localización y control remoto de su vehículo. </p>
-                            <a href="#" class="btn_appstore"></a> </div>
+                                        <div class="container hidden-phone"><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a><a href="#" class="btn_blackberry"></a></div><a href="#" class="btn_appstore"></a> </div>
                         <div class="span6"><img src="iTrack%20-%20Home%20Page_files/iphone.png" alt="image"></div>
                     </li>
                     <!--first slide ends--> 
@@ -153,7 +153,7 @@
 <li>Plataforma Móvil y Aplicaciones para celulares sin costo</li>
 <li>Apagado/Encendido Remoto</li>
 <li>Alertas por Exceso de Velocidad</li></ul></p>
-                            <a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a> </div>
+                          <div class="container hidden-phone"><a href="#" class="btn_blackberry"></a><a href="#" class="btn_appstore"></a></div><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a></div>
                         <div class="span6"><img src="iTrack%20-%20Home%20Page_files/light.png" alt="image"></div>
                     </li>
                     <!--second slide ends--> 

@@ -48,6 +48,15 @@ strong {
 	float: left;
         margin-left:10px;
 }
+
+.btn_blackberry {
+	background: url(../images/appworld.png) no-repeat;
+	width: 200px;
+	height: 54px;
+	margin-top: 20px;
+	float: left;
+        margin-left:10px;
+}
 .btn_appstore {
 	background: url(../images/btn-appstore.png) no-repeat;
 	width: 178px;

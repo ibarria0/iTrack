@@ -48,6 +48,15 @@ strong {
 	float: left;
         margin-left:10px;
 }
+
+.btn_blackberry {
+	background: url(../images/appworld.png) no-repeat;
+	width: 178px;
+	height: 65px;
+	margin-top: 20px;
+	float: left;
+        margin-left:10px;
+}
 .btn_appstore {
 	background: url(../images/btn-appstore.png) no-repeat;
 	width: 178px;
@@ -651,12 +660,6 @@ line-height: 1.3em;
 font-style: normal;
 word-spacing: 1px;
     
-}
-.xqitrack{
-color:green;
-text-align:center;
-font-size:14px;
-
 }
 
 
