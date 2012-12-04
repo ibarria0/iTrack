@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="tag.css" type="text/css" charset="utf-8" />
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="extras_files/twitterlib.js"></script>
 		<meta charset="utf-8">
-		<title>iTrack - Nuestros Planes de Servicio</title>
+		<title>iTrack | Nuestros Planes de Servicio</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -170,8 +170,8 @@ pauseOnAction: true
 										<div class="span4">
 											<ul class="list1">
 												<li>Localización desde una plataforma móvil
-												a través de un Smartphone (Iphone,
-												Blackberry, Android, Ipad)</li>
+												a través de un Smartphone (iPhone,iPad,
+												Blackberry, Android)</li>
 
 
 											</ul>
@@ -210,16 +210,19 @@ pauseOnAction: true
 										</div>
 										<div class="span4">
 											<ul class="list3">
-												<li>Botón de Pánico para emergencias o
-												Apagado / Encendido Remoto</li>
-
+												<li>Apertura de cierre central de Puertas</li>
+<li>Integración con el equipo GPS Garmin que le permite
+recibir ,mensajes e instrucciones desde su vehículo. 
+</li>
+<li>Reportes Adaptables a la Necesidad del Mercado </li>
+<li>Equipos para Ahorro de Combustible</li>
 											</ul>
 										</div>
 										<div class="span4"><div style="width:300px; position: relative">
 												<div class="tag-triangle"></div>
 												<div class="hole"></div>
 												<div class="tag-rectangle"><br><br>
-													<h7>$99.99</h7>
+													<h7>Ver Precios</h7>
 												</div>
 										</div></div>
 									</div>
@@ -234,27 +237,31 @@ pauseOnAction: true
 												<li>Actividad Actual del Vehículo</li>
 												<li>Velocidad</li>
 												<li>Mi Posición en relación al vehículo </li>
-												<li>Distancia estimada recorrida</li>		
+												<li>Distancia estimada recorrida</li>	
+												<li>Duración de recorrido</li>		
+												<li>Alerta de Velocidad Excesiva
+												</li>
+												<li>Apagado / Encendido Remoto</li>
+	
+												<li>Botón de Pánico para emergencias
+
+												</li>	
 											</ul>
 										</div>
 										<div class="span4">
-											<ul class="list1">
-												<li>Alerta de Velocidad Excesiva
-												</li>
-												<li>Alerta para 5 Puntos de Interés
-												</li>
-
-												<li>Duración de recorrido</li>		
-												<li>Botón de Pánico para emergencias y
-												Apagado / Encendido Remoto
-
-												</li>		</ul>
+											<ul class="list3">
+												<li>Apertura de cierre central de Puertas</li>
+<li>Integración con el equipo GPS Garmin que le permite
+recibir ,mensajes e instrucciones desde su vehículo. 
+</li>
+<li>Reportes Adaptables a la Necesidad del Mercado </li>
+<li>Equipos para Ahorro de Combustible</li>	</ul>
 											</div>
 											<div class="span4"><div style="width:300px; position: relative">
 													<div class="tag-trianglegold"></div>
 													<div class="holegold"></div>
 													<div class="tag-rectanglegold"><br><br>
-														<h7>$199.99</h7>
+														<h7>Ver Precios</h7>
 													</div>
 											</div></div>
 
@@ -271,38 +278,40 @@ pauseOnAction: true
 													<li>Actividad Actual del Vehículo</li>
 													<li>Velocidad</li>
 													<li>Mi Posición en relación al vehículo </li>
-
+													<li>Distancia estimada recorrida</li>	
 													<li>Duración de recorrido</li>
+
 													<li>Alerta de Velocidad Excesiva
 													</li>
-													<li>Alerta para 10 Puntos de Interés
-													</li>				
-													<li>Alerta para 10 Geocercas
-													</li>		
-													<li>Distancia estimada recorrida</li>
+													<li>Apagado / Encendido Remoto</li>
+													
+<li>Botón de Pánico para emergencias
+
+												</li>	
 												</ul>
 											</div>
 
 											<div class="span4">
-												<ul class="list3">
-													<li>Apertura de cierre central de Puertas
-													</li>
-													<li>Integración con el equipo GPS Garmin
-													que le permite recibir ,mensajes e ins-
-													trucciones desde su vehículo.
-													</li>				
-													<li>Reportes Adaptables a la Necesidad
-													del Mercado
+													<ul class="list1">
+			<li>Alerta para 10 Puntos de Interés
+													</li>	
+													<li>Alerta para 10 Geocercas
 													</li>		
-													<li>Equipos para Ahorro de Combustible
-													</li>	</ul>
+<li>Identificador para dos Conductores.
+</li>
+												<li>Apertura de cierre central de Puertas</li>
+<li>Integración con el equipo GPS Garmin que le permite
+recibir ,mensajes e instrucciones desde su vehículo. 
+</li>
+<li>Reportes Adaptables a la Necesidad del Mercado </li>
+<li>Equipos para Ahorro de Combustible</li>	</ul>
 
 												</div>
 												<div class="span4"><div style="width:300px; position: relative">
 														<div class="tag-triangleplatinum"></div>
 														<div class="holeplatinum"></div>
 														<div class="tag-rectangleplatinum"><br><br>
-															<h7>$299.99</h7>
+															 <a href="http://www.w3schools.com"><h7>Ver Precios</h7></a> 
 														</div>
 												</div></div>
 											</div>

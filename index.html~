@@ -8,10 +8,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
+
         <style>
             #header_wrapper {
                 padding-top: 10px; /* 60px to make the container go all the way to the bottom of the topbar */
             }
+
+						.flexslider{
+							min-height:512px;
+						}
         </style>
         <!--  styles -->
          <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -87,10 +92,12 @@
     	
             });
         </script>
-    <script id="twitterlib1350610461463" src="iTrack%20-%20Home%20Page_files/user_timeline.js"></script></head>
+    <script id="twitterlib1350610461463" src="iTrack%20-%20Home%20Page_files/user_timeline.js"></script> 
+<meta name="google-translate-customization" content="322386729c97bace-e32c96ab19f0e803-ge95cfd328acc636a-11"></meta></head>
 
     <body>
         <!-- Navbar -->
+
 
         <div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;">
             <div class="navbar-inner">
@@ -133,7 +140,7 @@
                     <!--first slide starts-->
                     <li style="width: 100%; float: left; margin-right: -100%; display: list-item;">
                         <div class="span5 slide">
-                            <h2 id="h2itrack"><strong>iTrack</strong> Localizador Satelital</h2>
+                            <h2 ><strong>iTrack</strong> Localizador Satelital</h2>
                             <br>
                             <p> iTrack es un localizador satelital personal, el cual es instalado en cuestión de minutos en su automóvil de manera indiscreta, de forma tal que no hay manera de distinguir cual automóvil tiene el sistema o no, protegiéndolo de cualquier robo potencial o incidente que requiera de localización y control remoto de su vehículo. </p>
                                         <div class="container hidden-phone"><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a><a href="#" class="btn_blackberry"></a></div><a href="#" class="btn_appstore"></a> </div>
@@ -154,7 +161,7 @@
 <li>Apagado/Encendido Remoto</li>
 <li>Alertas por Exceso de Velocidad</li></ul></p>
                           <div class="container hidden-phone"><a href="#" class="btn_blackberry"></a><a href="#" class="btn_appstore"></a></div><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a></div>
-                        <div class="span6"><img src="iTrack%20-%20Home%20Page_files/light.png" alt="image"></div>
+                        <div class="span6"><img src="images/s3f.png" alt="image"></div>
                     </li>
                     <!--second slide ends--> 
 
@@ -167,7 +174,7 @@
                             <p><ul><li>Reportes (adaptable a necesidad del usuario)</li>
 <li>Equipos GPS Garmin con Mensajería integrada*</li>
 <li>Reconocimiento de Chofer*</li></ul></p>
-                            <a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_android"></a></div>
+                             <div class="container hidden-phone"><a href="#" class="btn_appstore"></a><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a></div><a href="#" class="btn_blackberry"></a></div>
                         <div class="span6"><img src="iTrack%20-%20Home%20Page_files/draw.png" alt="image"></div>
                     </li>
                     <!--third slide ends-->
@@ -195,7 +202,7 @@ Una vez el producto sea instalado, usted podrá de inmediato localizar su
         <div id="features"> 
 
 
-            <div class="container">
+            <div class="container hidden-phone">
 
                 <div class="row">
 
@@ -281,7 +288,7 @@ Una vez el producto sea instalado, usted podrá de inmediato localizar su
            
                                <br><br><br><br>
                             <p>Copyright 2012 Dev507.com. All Rights Reserved.</p>
-                          
+
                         </div> 
 
                     </div> 
