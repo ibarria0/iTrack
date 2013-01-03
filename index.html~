@@ -93,7 +93,8 @@
             });
         </script>
     <script id="twitterlib1350610461463" src="iTrack%20-%20Home%20Page_files/user_timeline.js"></script> 
-<meta name="google-translate-customization" content="322386729c97bace-e32c96ab19f0e803-ge95cfd328acc636a-11"></meta></head>
+<meta name="google-translate-customization" content="9723afd3f8c0d88b-4511b6209a2b74b1-gf5a6e1fa0f3e0a02-11"></meta>
+        </head>
 
     <body>
         <!-- Navbar -->
@@ -102,6 +103,12 @@
         <div class="navbar navbar-fixed-top" style="border-bottom: 1px solid #000;">
             <div class="navbar-inner">
                 <div class="container">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -144,7 +151,7 @@
                             <br>
                             <p> iTrack es un localizador satelital personal, el cual es instalado en cuestión de minutos en su automóvil de manera indiscreta, de forma tal que no hay manera de distinguir cual automóvil tiene el sistema o no, protegiéndolo de cualquier robo potencial o incidente que requiera de localización y control remoto de su vehículo. </p>
                                                       <div class="container hidden-phone"><a href="#" class="btn_appstore"></a><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a></div><a href="#" class="btn_blackberry"></a></div>
-                        <div class="span6"><img src="iTrack%20-%20Home%20Page_files/draw.png" alt="image"></div>
+                        <div class="span6"><img src="iTrack%20-%20Home%20Page_files/iphone.png" alt="image"></div>
                     </li>
                     <!--first slide ends--> 
 
@@ -161,7 +168,7 @@
 <li>Apagado/Encendido Remoto</li>
 <li>Alertas por Exceso de Velocidad</li></ul></p>
                              <div class="container hidden-phone"><a href="#" class="btn_appstore"></a><a href="https://play.google.com/store/apps/details?id=com.dev507.itrack" class="btn_googleplay"></a></div><a href="#" class="btn_blackberry"></a></div>
-                        <div class="span6"><img src="iTrack%20-%20Home%20Page_files/draw.png" alt="image"></div>
+                        <div class="span6"><img src="images/s3f.png" alt="image"></div>
                     </li>
                     <!--second slide ends--> 
 

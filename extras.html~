@@ -156,8 +156,6 @@ pauseOnAction: true
 
 
 
-									<h1>Comparacion de Planes</h1>
-
 									<div class='well'>
 										<ul class="list3">
 											<li> (opcional) </li>
@@ -221,8 +219,8 @@ recibir ,mensajes e instrucciones desde su vehículo.
 										<div class="span4"><div style="width:300px; position: relative">
 												<div class="tag-triangle"></div>
 												<div class="hole"></div>
-												<div class="tag-rectangle"><br><br>
-													<h7>Ver Precios</h7>
+												<div class="tag-rectangle">
+			 <h11 class="colortag">3 meses: $199.00</br> 6 meses: $229.00 </br> 12 meses: $299.00 </br></h11><h11 class="colortag2"> Promoci&oacute;n - 12 meses: $259.00 </h11> 
 												</div>
 										</div></div>
 									</div>
@@ -260,9 +258,9 @@ recibir ,mensajes e instrucciones desde su vehículo.
 											<div class="span4"><div style="width:300px; position: relative">
 													<div class="tag-trianglegold"></div>
 													<div class="holegold"></div>
-													<div class="tag-rectanglegold"><br><br>
-														<h7>Ver Precios</h7>
-													</div>
+													<div class="tag-rectanglegold">
+										 <h11 class="colortag">3 meses: $249.00</br> 6 meses: $299.00 </br> 12 meses: $349.00 </br> </h11> <h11 class="colortag2">Promoci&oacute;n - 12 meses: $299.00 </h11> 
+				</div>
 											</div></div>
 
 										</div>
@@ -310,8 +308,8 @@ recibir ,mensajes e instrucciones desde su vehículo.
 												<div class="span4"><div style="width:300px; position: relative">
 														<div class="tag-triangleplatinum"></div>
 														<div class="holeplatinum"></div>
-														<div class="tag-rectangleplatinum"><br><br>
-															 <a href="http://www.w3schools.com"><h7>Ver Precios</h7></a> 
+														<div class="tag-rectangleplatinum">
+												 <h11 class="colortag">3 meses: $299.00</br> 6 meses: $349.00 </br> 12 meses: $399.00 </br> </h11><h11 class="colortag2">Promoci&oacute;n - 12 meses: $359.00 </h11> 
 														</div>
 												</div></div>
 											</div>
