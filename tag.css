@@ -2,7 +2,7 @@
 	
 
 	.tag-triangle {
-		border-color:transparent #B22222 transparent transparent;
+		border-color:transparent #738678 transparent transparent;
 		border-style:solid;
 		border-width:50px;
 		width:0;
@@ -11,7 +11,7 @@
 	}
 
 	.tag-rectangle {
-		background-color:#B22222;
+		background-color:#738678;
 		width:200px;
 		height:100px;
 		display:inline;
@@ -39,7 +39,7 @@
 
 
 	.tag-trianglegold {
-		border-color:transparent #B22222 transparent transparent;
+		border-color:transparent #EEE600 transparent transparent;
 		border-style:solid;
 		border-width:50px;
 		width:0;
@@ -48,7 +48,7 @@
 	}
 
 	.tag-rectanglegold {
-		background-color:#B22222;
+		background-color:#EEE600;
 		width:200px;
 		height:100px;
 		display:inline;
@@ -76,7 +76,7 @@
 
 
 	.tag-triangleplatinum {
-		border-color:transparent #B22222 transparent transparent;
+		border-color:transparent #FF7518 transparent transparent;
 		border-style:solid;
 		border-width:50px;
 		width:0;
@@ -85,7 +85,7 @@
 	}
 
 	.tag-rectangleplatinum {
-		background-color:#B22222;
+		background-color:#FF7518;
 		width:200px;
 		height:100px;
 		display:inline;
@@ -116,3 +116,43 @@
 
 .colortag {color:black;}
 .colortag2 {color:yellow;}
+
+
+
+#twelve-point-star {
+   height: 100px;
+   width: 100px;
+   background: orange;
+   position: absolute;
+}
+#twelve-point-star:before {
+   height: 100px;
+   width: 100px;
+   background: orange;
+   content:"";
+   position: absolute;
+   /* Rotate */
+   -moz-transform: rotate(30deg);
+   -webkit-transform: rotate(30deg);
+   -ms-transform: rotate(30deg);
+   -o-transform: rotate(30deg);
+   transform: rotate(30deg);
+}
+#twelve-point-star:after {
+   height: 100px;
+   width: 100px;
+   background: orange;
+   content:"";
+   position: absolute;
+   /* Rotate */
+   -moz-transform: rotate(-30deg);
+   -webkit-transform: rotate(-30deg);
+   -ms-transform: rotate(-30deg);
+   -o-transform: rotate(-30deg);
+   transform: rotate(-30deg);
+}
+
+#tps {
+padding-left:320px;
+}
+

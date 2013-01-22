@@ -194,7 +194,7 @@ pauseOnAction: true
 											</ul>
 									</div></div>
 									<hr>
-									<h2 class="h1silver">Plan Silver</h2>
+									<h2 class="h1silver">iTrack Silver</h2>
 									<hr>
 									<div class="row">
 										<div class="span4">
@@ -222,12 +222,14 @@ recibir ,mensajes e instrucciones desde su vehículo.
 												<div class="tag-rectangle">
 			 <h11 class="colortag">3 meses: $199.00</br> 6 meses: $229.00 </br> 12 meses: $299.00 </br></h11><h11 class="colortag2"> Promoci&oacute;n - 12 meses: $259.00 </h11> 
 												</div>
+
+											<div id="tps"><div id="twelve-point-star"></div></div>
 										</div></div>
 									</div>
 
 									<br>
 									<hr>
-									<h2 class="h1gold">Plan Gold</h2>
+									<h2 class="h1gold">iTrack Gold</h2>
 									<hr>
 									<div class="row">
 										<div class="span4">
@@ -268,7 +270,7 @@ recibir ,mensajes e instrucciones desde su vehículo.
 
 										<br>
 										<hr>
-										<h2 class="h1platinum">Plan Platinum</h2>
+										<h2 class="h1platinum">iTrack Platinum</h2>
 										<hr>
 										<div class="row">
 											<div class="span4">
